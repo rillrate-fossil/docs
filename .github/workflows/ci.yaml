@@ -8,11 +8,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: shalzz/zola-deploy-action
-      uses: shalzz/zola-deploy-action@master
+      with:
+        submodules: recursive
+    - uses: shalzz/zola-deploy-action@v0.12.2
       env:
-        #REPOSITORY: rillrate/rillrate.github.io
         PAGES_BRANCH: rendered
-        #BUILD_DIR: docs
-        #BUILD_FLAGS: --drafts
+        BUILD_DIR: .
         TOKEN: ${{ secrets.TOKEN }}
+    #- run: wget -qO- https://github.com/getzola/zola/releases/download/v0.12.2/zola-v0.12.2-x86_64-unknown-linux-gnu.tar.gz | tar xvz
