@@ -5,8 +5,8 @@ title = ""
 # The homepage contents
 [extra]
 lead = '<div class="fs-3 mb-5"><b>RillRate</b> - Real-time UI for bots.</div>'
-url = "/docs/getting-started/introduction/"
 url_button = "Get started"
+url = "/docs/"
 repo_license = "Open-source on"
 repo_version = "GitHub"
 repo_url = "https://github.com/rillrate/rillrate"
