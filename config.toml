@@ -17,3 +17,16 @@ default_language = "en"
 
 [extra]
 # Put all your custom variables here
+
+[extra.footer]
+info = '© 2021 RillRate OÜ'
+
+[[extra.footer.nav]]
+name = "Terms"
+url = "https://rillrate.com/legal/terms"
+weight = 10
+
+[[extra.footer.nav]]
+name = "Privacy"
+url = "https://rillrate.com/legal/privacy"
+weight = 20
