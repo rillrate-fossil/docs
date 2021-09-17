@@ -38,5 +38,13 @@ only and prints any data to files and `stdout`.
 
 ## How to make UI with RillRate?
 
-**RillRate** is a library of ready-to-use UI components that automatically
+**RillRate** is a **library** of ready-to-use UI components that automatically
 rendered on the Web Dashboard.
+
+You can connect to the dashboard in two ways:
+
+- **Direct** - the library embeds a standalone dashboard to every app.
+Use a browser to connect to it.
+- **Central Hub** - server joins many apps into a single dashboard.
+Start a container with the server, connect to it with a web browser
+and start all apps that uses the library.
