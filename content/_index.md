@@ -1,10 +1,11 @@
 +++
-title = ""
+title = "RillRate - Real-time UI for bots and tools."
 
 
 # The homepage contents
 [extra]
-lead = '<div class="fs-3 mb-5"><b>RillRate</b> - Real-time UI for bots and tools.</div>'
+title = "<b>RillRate</b> - Real-time UI for bots and tools."
+lead = "Add powerful UI in few minutes."
 url_button = "Get started"
 url = "/docs/"
 repo_license = "Open-source on"
