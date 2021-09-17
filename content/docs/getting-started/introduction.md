@@ -7,7 +7,7 @@ sort_by = "weight"
 template = "docs/page.html"
 
 [extra]
-#lead = '<b>RillRate</b> embeds a real-time dashboard to your bots.'
+#lead = '<b>RillRate</b> is a way to develop and maintain UI for distributed applications to monitor and control them.'
 toc = true
 top = false
 +++
