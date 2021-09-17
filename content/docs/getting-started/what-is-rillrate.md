@@ -12,7 +12,7 @@ toc = true
 top = false
 +++
 
-# How developers make UIs?
+## How developers make UIs?
 
 The software can be _interactive_ and _non-interactive_.
 
@@ -33,5 +33,10 @@ for example, it would be useful to have it for monitoring or changing
 parameters without restarting the application.
 
 But in both cases developing of user-interface is a long and not flexible process.
-That is why many bots or tools supports command-line parameters only and prints any
-data to files and `stdout`.
+That is why many bots or tools have no UI and supports command-line parameters
+only and prints any data to files and `stdout`.
+
+## How to make UI with RillRate?
+
+**RillRate** is a library of ready-to-use UI components that automatically
+rendered on the Web Dashboard.
