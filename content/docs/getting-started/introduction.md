@@ -1,6 +1,6 @@
 +++
 title = "Introduction"
-description = "AdiDoks is a Zola theme helping you build modern documentation websites, which is a port of the Hugo theme Doks for Zola."
+description = "RillRate - Real-time UI for bots and tools."
 draft = false
 weight = 10
 sort_by = "weight"
@@ -12,8 +12,20 @@ toc = true
 top = false
 +++
 
+## What is RillRate?
+
+Learn what is the difference between **RillRate** and ordinary GUI frameworks,
+and why it's more effecient than creating own UI app for bots or tools.
+[What is RillRate? →](../what-is-rillrate/)
+
+<!--
+**RillRate** is a UI framework for creating real-time user interfaces for
+distributed applications. We have completely rethought the process of creation
+and using of the UI.
+-->
+
 ## Quick Start
 
-One page summary of how to embed the <b>RillRate</b> dashboard into your bot in a few minutes. [Quick Start →](../quick-start/)
-
-In progress...
+Learn about how **RillRate** allows you to add a user interface in minutes
+to your: bots, tools, services, and apps.
+[Quick Start →](../quick-start/)

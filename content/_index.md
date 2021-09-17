@@ -7,9 +7,9 @@ title = "RillRate - Real-time UI for bots and tools."
 title = "<b>RillRate</b> - Real-time UI for bots and tools."
 lead = "Add powerful UI in few minutes."
 url_button = "Get started"
-url = "/docs/"
-repo_license = "Open-source on"
-repo_version = "GitHub"
+url = "/docs/getting-started/introduction"
+repo_license = "Open-source Apache-2.0 license."
+repo_version = "GitHub v0.40.0"
 repo_url = "https://github.com/rillrate/rillrate"
 
 [[extra.list]]
