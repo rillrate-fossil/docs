@@ -7,7 +7,6 @@ sort_by = "weight"
 template = "docs/page.html"
 
 [extra]
-#lead = '<b>RillRate</b> is a way to develop and maintain UI for distributed applications to monitor and control them.'
 toc = true
 top = false
 +++
@@ -15,7 +14,7 @@ top = false
 ## What is RillRate?
 
 Learn what is the difference between **RillRate** and ordinary GUI frameworks,
-and why it's more effecient than creating own UI app for bots or tools.
+and why using it is more effecient than creating UI for bots or tools manually.
 [What is RillRate? →](../what-is-rillrate/)
 
 <!--

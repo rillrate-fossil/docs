@@ -4,8 +4,10 @@ title = "RillRate - Real-time UI for bots and tools."
 
 # The homepage contents
 [extra]
-title = "<b>RillRate</b> - Real-time UI for bots and tools."
-lead = "Add powerful UI in few minutes."
+#title = "<b>RillRate</b> - Real-time UI for bots and tools."
+#lead = "Add powerful UI in few minutes."
+title = "<b>RillRate</b> - Real-time dashboard for developers."
+lead = "Monitor and control everything you want <b>in minutes</b>."
 url_button = "Get started"
 url = "/docs/getting-started/introduction"
 repo_license = "Open-source Apache-2.0 license."
