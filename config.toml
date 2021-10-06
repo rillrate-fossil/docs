@@ -91,8 +91,14 @@ weight = 10
 [[extra.menu.main]]
 name = "Blog"
 section = "blog"
-url = "/blog/"
+url = "/blog/weeks/"
 weight = 30
+
+#[[extra.menu.main]]
+#name = "Demo"
+#section = "demo"
+#url = "https://demo.rillrate.com"
+#weight = 40
 
 [[extra.menu.social]]
 name = "Twitter"
